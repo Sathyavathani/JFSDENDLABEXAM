@@ -8,7 +8,7 @@ public class SpringBootLabExamApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootLabExamApplication.class, args);
-		System.out.println("Project is running!!!!!");
+		System.out.println("Project is running!!!!");
 	}
 
 }
